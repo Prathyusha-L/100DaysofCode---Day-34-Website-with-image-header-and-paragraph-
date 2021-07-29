@@ -1,0 +1,27 @@
+# 100DaysofCode---Day-34
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>What is Internet of Things (IOT)?</h1>
+    <img src="https://1.bp.blogspot.com/-gWE5govgVf4/YOqDWzENUnI/AAAAAAAAAB4/BavdYJKa0QkI-AmcQhPo94S_lAXgTtAOgCLcBGAsYHQ/w367-h207/internet_of_things_iot.jpg" alt="The Firefox logo: a flaming fox surrounding the Earth.">
+
+    <p> Global community of:  -</p>
+
+    <ul> <!-- changed to list in the tutorial -->
+      <li>Technologists</li>
+      <li>Thinkers</li>
+      <li>Builders</li>
+    </ul>
+
+    <p>The Internet of Things, or IoT, alludes to the billions of actual gadgets all throughout the planet that are currently associated with the web, all gathering and sharing information. Because of the appearance of super-modest central processors and the universality of remote organizations, it's feasible to turn anything, from something as little as a pill to something as large as a plane, into a piece of the IoT. Associating up this load of various items and adding sensors to them adds a degree of advanced insight to gadgets that would be generally idiotic, empowering them to convey continuous information without including an individual. The Internet of Things is making the texture of our general surroundings more astute and more responsive, blending the computerized and actual universes. </p>
+
+    <p>Read the <a href="https://everythingaboutwebscraping.blogspot.com/2021/07/internet-of-things-everything-you-need.html">Internet of Things : Everything you need to know about IOT</a> to learn even more about Internet of things (IoT)</p>
+  </body>
+</html>
